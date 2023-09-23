@@ -11,10 +11,12 @@ namespace SingletonCheck
         private Samosa() { }
         public static Samosa _samosa;
 
+
+        public string ChutneyTaste { get; set; }
+
         private static readonly object Instancelock = new object();
 
-
-        public static Samosa BanaLeyEkObject()
+        public static Samosa BanaLeyEkObject( string taste)
         {
             if (_samosa == null)
             {
@@ -24,20 +26,21 @@ namespace SingletonCheck
                     if (_samosa == null)
                     {
                         _samosa = new Samosa();
+                        _samosa.ChutneyTaste = taste;
                     }
 
-                }
-
             }
+
+        }
 
             return _samosa;
         }
 
-        public string GetSamosaChutney(string typeOfChutney)
-        {
+        //public string GetSamosaChutney(string typeOfChutney)
+        //{
 
-            return $"{typeOfChutney} chutney";
-        }
+        //    return $"{typeOfChutney} chutney";
+        //}
 
     }
 }
