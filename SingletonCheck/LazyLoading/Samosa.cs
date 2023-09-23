@@ -8,18 +8,26 @@ namespace SingletonCheck
 {
     public class Samosa
     {
-
-        private Samosa()
-        {
-
-        }
+        private Samosa() { }
         public static Samosa _samosa;
+
+        private static readonly object Instancelock = new object();
+
+
         public static Samosa BanaLeyEkObject()
         {
-
             if (_samosa == null)
             {
-                _samosa = new Samosa();
+                lock (Instancelock)
+                {
+
+                    if (_samosa == null)
+                    {
+                        _samosa = new Samosa();
+                    }
+
+                }
+
             }
 
             return _samosa;
