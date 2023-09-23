@@ -1,0 +1,15 @@
+C:\Users\gourav.majee\Desktop\SingletonDP\SingletonCheck\SingletonCheck\bin\Debug\net6.0\SingletonCheck.exe
+C:\Users\gourav.majee\Desktop\SingletonDP\SingletonCheck\SingletonCheck\bin\Debug\net6.0\SingletonCheck.deps.json
+C:\Users\gourav.majee\Desktop\SingletonDP\SingletonCheck\SingletonCheck\bin\Debug\net6.0\SingletonCheck.runtimeconfig.json
+C:\Users\gourav.majee\Desktop\SingletonDP\SingletonCheck\SingletonCheck\bin\Debug\net6.0\SingletonCheck.dll
+C:\Users\gourav.majee\Desktop\SingletonDP\SingletonCheck\SingletonCheck\bin\Debug\net6.0\SingletonCheck.pdb
+C:\Users\gourav.majee\Desktop\SingletonDP\SingletonCheck\SingletonCheck\obj\Debug\net6.0\SingletonCheck.csproj.AssemblyReference.cache
+C:\Users\gourav.majee\Desktop\SingletonDP\SingletonCheck\SingletonCheck\obj\Debug\net6.0\SingletonCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gourav.majee\Desktop\SingletonDP\SingletonCheck\SingletonCheck\obj\Debug\net6.0\SingletonCheck.AssemblyInfoInputs.cache
+C:\Users\gourav.majee\Desktop\SingletonDP\SingletonCheck\SingletonCheck\obj\Debug\net6.0\SingletonCheck.AssemblyInfo.cs
+C:\Users\gourav.majee\Desktop\SingletonDP\SingletonCheck\SingletonCheck\obj\Debug\net6.0\SingletonCheck.csproj.CoreCompileInputs.cache
+C:\Users\gourav.majee\Desktop\SingletonDP\SingletonCheck\SingletonCheck\obj\Debug\net6.0\SingletonCheck.dll
+C:\Users\gourav.majee\Desktop\SingletonDP\SingletonCheck\SingletonCheck\obj\Debug\net6.0\refint\SingletonCheck.dll
+C:\Users\gourav.majee\Desktop\SingletonDP\SingletonCheck\SingletonCheck\obj\Debug\net6.0\SingletonCheck.pdb
+C:\Users\gourav.majee\Desktop\SingletonDP\SingletonCheck\SingletonCheck\obj\Debug\net6.0\SingletonCheck.genruntimeconfig.cache
+C:\Users\gourav.majee\Desktop\SingletonDP\SingletonCheck\SingletonCheck\obj\Debug\net6.0\ref\SingletonCheck.dll
